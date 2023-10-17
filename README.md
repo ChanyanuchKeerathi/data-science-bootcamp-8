@@ -12,4 +12,3 @@ My data portfolio for data analyst role
 - Essential Machine Learning For Data Analyst
 - Python
 - Looker Studio Dashboard
-- 
